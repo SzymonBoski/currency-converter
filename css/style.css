@@ -11,4 +11,8 @@ html {
     overflow-x: auto;
     margin: auto;
     max-width: 1000px;
+    background-image: url("../images/currency.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
