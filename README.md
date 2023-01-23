@@ -10,7 +10,7 @@ It is my thirs site which I created. You can choose between three currencies and
 
 ## How Used 
 
-![How Used](https://github.com/SzymonBoski/currency-converter/blob/main/howUsed.gif);
+![How Used](https://github.com/SzymonBoski/currency-converter/blob/main/howUsed.gif)
 
 ## Used Technologies
 - HTML
